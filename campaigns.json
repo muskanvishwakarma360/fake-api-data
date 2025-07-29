@@ -1,0 +1,222 @@
+[
+  {
+    "campaignId": "CAMP-2023-0458",
+    "campaignName": "Fleet Owner Meet",
+    "submittedBy": "EMP001",
+    "submitterName": "Rahul Sharma",
+    "campaignType": "Road Show",
+    "budget": 350000,
+    "date": "15 Oct, 2023",
+    "status": "Pending Approval"
+  },
+  {
+    "campaignId": "CAMP-2023-0457",
+    "campaignName": "Driver Training Program",
+    "submittedBy": "EMP002",
+    "submitterName": "Anjali Mehra",
+    "campaignType": "Live Trial",
+    "budget": 275000,
+    "date": "10 Oct, 2023",
+    "status": "Approved"
+  },
+  {
+    "campaignId": "CAMP-2023-0456",
+    "campaignName": "Fleet Owner Meet",
+    "submittedBy": "EMP003",
+    "submitterName": "Vikram Singh",
+    "campaignType": "Customer Meet",
+    "budget": 425000,
+    "date": "05 Oct, 2023",
+    "status": "Approved"
+  },
+  {
+    "campaignId": "CAMP-2023-0455",
+    "campaignName": "Manufacturing Plant Tour",
+    "submittedBy": "EMP004",
+    "submitterName": "Meena Joshi",
+    "campaignType": "Plant Visit",
+    "budget": 180000,
+    "date": "28 Sep, 2023",
+    "status": "Rejected"
+  },
+  {
+    "campaignId": "CAMP-2023-0454",
+    "campaignName": "Body Builder Conference",
+    "submittedBy": "EMP005",
+    "submitterName": "Amit Verma",
+    "campaignType": "Body Builder Meet",
+    "budget": 320000,
+    "date": "20 Sep, 2023",
+    "status": "Completed"
+  },
+  {
+    "campaignId": "CAMP-2023-0453",
+    "campaignName": "New Launch Event",
+    "submittedBy": "EMP006",
+    "submitterName": "Sonal Rawat",
+    "campaignType": "Product Launch",
+    "budget": 500000,
+    "date": "01 Sep, 2023",
+    "status": "Pending Approval"
+  },
+  {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+  {
+    "campaignId": "CAMP-2023-0451",
+    "campaignName": "Regional Dealer Meet",
+    "submittedBy": "EMP008",
+    "submitterName": "Neha Shah",
+    "campaignType": "Conference",
+    "budget": 290000,
+    "date": "18 Aug, 2023",
+    "status": "Rejected"
+  },
+  {
+    "campaignId": "CAMP-2023-0458",
+    "campaignName": "Fleet Owner Meet",
+    "submittedBy": "EMP001",
+    "submitterName": "Rahul Sharma",
+    "campaignType": "Road Show",
+    "budget": 350000,
+    "date": "15 Oct, 2023",
+    "status": "Pending Approval"
+  },
+  {
+    "campaignId": "CAMP-2023-0457",
+    "campaignName": "Driver Training Program",
+    "submittedBy": "EMP002",
+    "submitterName": "Anjali Mehra",
+    "campaignType": "Live Trial",
+    "budget": 275000,
+    "date": "10 Oct, 2023",
+    "status": "Approved"
+  },
+  {
+    "campaignId": "CAMP-2023-0456",
+    "campaignName": "Fleet Owner Meet",
+    "submittedBy": "EMP003",
+    "submitterName": "Vikram Singh",
+    "campaignType": "Customer Meet",
+    "budget": 425000,
+    "date": "05 Oct, 2023",
+    "status": "Approved"
+  },
+  {
+    "campaignId": "CAMP-2023-0455",
+    "campaignName": "Manufacturing Plant Tour",
+    "submittedBy": "EMP004",
+    "submitterName": "Meena Joshi",
+    "campaignType": "Plant Visit",
+    "budget": 180000,
+    "date": "28 Sep, 2023",
+    "status": "Rejected"
+  },
+  {
+    "campaignId": "CAMP-2023-0454",
+    "campaignName": "Body Builder Conference",
+    "submittedBy": "EMP005",
+    "submitterName": "Amit Verma",
+    "campaignType": "Body Builder Meet",
+    "budget": 320000,
+    "date": "20 Sep, 2023",
+    "status": "Completed"
+  },
+  {
+    "campaignId": "CAMP-2023-0453",
+    "campaignName": "New Launch Event",
+    "submittedBy": "EMP006",
+    "submitterName": "Sonal Rawat",
+    "campaignType": "Product Launch",
+    "budget": 500000,
+    "date": "01 Sep, 2023",
+    "status": "Pending Approval"
+  },
+  {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+  {
+    "campaignId": "CAMP-2023-0451",
+    "campaignName": "Regional Dealer Meet",
+    "submittedBy": "EMP008",
+    "submitterName": "Neha Shah",
+    "campaignType": "Conference",
+    "budget": 290000,
+    "date": "18 Aug, 2023",
+    "status": "Rejected"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+   {
+    "campaignId": "CAMP-2023-0452",
+    "campaignName": "Safety Awareness Drive",
+    "submittedBy": "EMP007",
+    "submitterName": "Ravi Kumar",
+    "campaignType": "Training",
+    "budget": 210000,
+    "date": "25 Aug, 2023",
+    "status": "Completed"
+  },
+]
