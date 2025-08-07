@@ -1,0 +1,14 @@
+[
+  { "name": "Jan", "internal": 49, "external": 45 },
+  { "name": "Feb", "internal": 38, "external": 48 },
+  { "name": "Mar", "internal": 18, "external": 50 },
+  { "name": "Apr", "internal": 20, "external": 54 },
+  { "name": "May", "internal": 40, "external": 57 },
+  { "name": "Jun", "internal": 28, "external": 61 },
+  { "name": "Jul", "internal": 30, "external": 29 },
+  { "name": "Aug", "internal": 38, "external": 60 },
+  { "name": "Sep", "internal": 38, "external": 45 },
+  { "name": "Oct", "internal": 26, "external": 61 },
+  { "name": "Nov", "internal": 50, "external": 78 },
+  { "name": "Dec", "internal": 40, "external": 35 }
+]
