@@ -27,8 +27,14 @@
         "mktgCollaterals": "Flyer, Standee; English & Telugu"
       },
       "claimAttachments": [
-        "Hotel booking - Taj Hotel",
-        "Catering Bills"
+        {
+          "name":  "Hotel booking - Taj Hotel",
+        "amount":"2,50,000"
+        },
+        {
+          "name":  "Catering Bills",
+        "amount":"3,50,000"
+        }
       ],
       "disclaimer": "By approving this campaign, you confirm that all materials meet brand guidelines and marketing objectives.",
       "campaignProgress": {
