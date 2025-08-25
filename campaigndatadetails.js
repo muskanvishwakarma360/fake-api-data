@@ -103,7 +103,8 @@
           {"name": "Level 7", "status": "Pending", "date": null}
         ]
       }
-  },
+  }
+},
   {
     "submitter": {
       "name": "Charlie Brown",
