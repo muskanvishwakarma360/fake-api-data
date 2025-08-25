@@ -54,11 +54,11 @@
 },
  {
   "submitter": {
-    "name": "Bob Williams",
-    "email": "bob.w@example.com"
+    "name": "Amit Williams",
+    "email": "amit.w@example.com"
   },
   "totalAmount": "7,90,000",
-  "submittedOn": "Jul 26, 2025",
+  "submittedOn": "Jul 24, 2025",
   "campaignType": "Product",
   "campaignName": "Product Launch",
   "status": "Approved",
