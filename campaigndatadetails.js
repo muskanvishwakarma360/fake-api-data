@@ -11,7 +11,7 @@
     "status": "Pending",
     "details": {
       "campaignInformation": {
-        "campaignName": "Plant Visit ABCD",
+        "name": "Plant Visit ABCD",
         "submissionDate": "Oct 15, 2023",
         "state": "Haryana",
         "city": "Faridabad",
@@ -19,12 +19,12 @@
         "targetSegment": "Bus : XXXXX"
       },
       "campaignDetails": {
-        "campaignObjective": "Increase customer loyalty",
-        "productToPromote": "Eicher Pro XXXX",
+        "objective": "Increase customer loyalty",
+        "product": "Eicher Pro XXXX",
         "budget": "4,45,000",
         "deviation": "45,000",
         "regionalManager": "Atul Mishra",
-        "mktgCollaterals": "Flyer, Standee; English & Telugu"
+        "collaterals": "Flyer, Standee; English & Telugu"
       },
       "claimAttachments": [
         {
